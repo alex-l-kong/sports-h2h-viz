@@ -145,7 +145,7 @@ The main reason is that the sample size of most head to head records is too smal
   
 ## Credit  
   
-All data was gathered from mcubed.net  
+All data was gathered from mcubed.net.  
   
 ## Next Update  
   
