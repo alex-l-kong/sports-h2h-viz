@@ -8,8 +8,9 @@ Plot the head to head history between two teams in the MLB, NBA, or NHL. An exte
 * Run it using: ```python3 h2hviz.py mlb|nba|nhl [-ohap] TEAM1 TEAM2```  
 * A list of team nicknames and their associated teams:  
   
+MLB:  
 ```json
-{ // MLB
+{
 	"ari": "Arizona Diamondbacks",
 	"atl": "Atlanta Braves",
 	"bal": "Baltimore Orioles",
@@ -43,8 +44,9 @@ Plot the head to head history between two teams in the MLB, NBA, or NHL. An exte
 }
 ```
   
+NBA:  
 ```json
-{ // NBA
+{
 	"atl": "Atlanta Hawks",
 	"bos": "Boston Celtics",
 	"brk": "Brooklyn Nets",
@@ -78,6 +80,7 @@ Plot the head to head history between two teams in the MLB, NBA, or NHL. An exte
 }
 ```
   
+NHL:  
 ```json
 {
 	"ana": "Anaheim Ducks",
