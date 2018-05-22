@@ -2,7 +2,7 @@
   
 Plot the head to head history between two teams in the MLB, NBA, or NHL. An extension of my previous MLB head to head record visualization driver.  
   
-## How to  
+## How To  
   
 * Go to the ```driver``` folder  
 * Run it using: ```python3 h2hviz.py mlb|nba|nhl [-ohap] TEAM1 TEAM2```  
@@ -136,7 +136,7 @@ NHL:
 * Gap years are filled in with the last valid year's data. So if there were no games played between Team A and Team B between 2015 and 2017, then the years 2015-2017 would be filled with 2014's respective data on the graph, but would not factor into calculations for future years  
 * Tie games do not count as a win nor a loss in the calculations  
   
-## The dilemma of the Vegas Golden Knights  
+## The Dilemma of the Vegas Golden Knights  
 They were formed in 2017, so they only have one season of data. For the sake of completion, I have included them, but give it some time before the data becomes truly relevant  
   
 ## Why No NFL Visualizations?  
