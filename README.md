@@ -137,7 +137,7 @@ NHL:
 * Tie games do not count as a win nor a loss in the calculations  
   
 ## The Dilemma of the Vegas Golden Knights  
-They were formed in 2017, so they only have one season of data. For the sake of completion, I have included them, but give it some time before the data becomes truly relevant  
+They were formed in 2017, so they only have one season of data. For the sake of completion, I have included them, but give it some time before the data becomes truly relevant.  
   
 ## Why No NFL Visualizations?  
    
