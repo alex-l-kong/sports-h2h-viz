@@ -24,7 +24,7 @@ decorator==4.2.1
 entrypoints==0.2.3
 falcon==1.4.1
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 gunicorn==19.8.1
 html5lib==0.9999999
 hyperlink==17.3.1
