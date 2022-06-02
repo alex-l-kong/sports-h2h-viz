@@ -26,7 +26,7 @@ falcon==1.4.1
 Flask==0.12.2
 Flask-Cors==3.0.3
 gunicorn==19.8.1
-html5lib==0.9999999
+html5lib==0.99999999
 hyperlink==17.3.1
 idna==2.6
 importlib==1.0.4
